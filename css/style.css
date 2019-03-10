@@ -1,0 +1,45 @@
+.main-body{
+
+    font-family: 'Roboto Slab', serif;
+
+}
+
+.banner a{
+    text-decoration:none;
+}
+
+.info{
+    margin: 30px;
+}
+
+.office-search-results{
+    margin: 30px;
+}
+
+.office-search{
+    margin: 30px;
+}
+
+.sub-header{
+    margin: 30px;
+}
+
+.crud-list{
+    margin: 30px;
+}
+
+.crud-list a{
+    text-decoration:none;
+}
+
+.inner-list{
+    margin: 10px;
+}
+
+.header-label-left{
+    margin-left: 30px;
+}
+
+.table-margin{
+    margin: 10px;
+}
